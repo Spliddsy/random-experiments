@@ -1,7 +1,9 @@
 % StarfieldMapper
 % Here's just a simple little project I made on the road. It takes
 % information about nearby stars and plots it in a 3 different 2D
-% cross-sections.
+% cross-sections. This is in it's own separate folder because you
+% need an Excel document ("Starfield.xlsx") to store data on the
+% nearby stars.
 %
 % JRW, 7/25/2024
 
